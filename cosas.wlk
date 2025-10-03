@@ -1,3 +1,5 @@
 object cosas {
+  method name() {
     
+  }  
 }
